@@ -1,0 +1,6 @@
+{
+  "name": "Colors Plugin",
+  "identifier": "com.credersi.app.colorsPlugin",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
